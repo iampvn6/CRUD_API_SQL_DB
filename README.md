@@ -74,9 +74,3 @@ docker-compose up --build
 2. Add render.yaml to the project root
 3. Create a new Web Service on Render
 4. Include environment variables
-
----
-
-Feel free to connect:
-- [Email](mailto:misbahullahsheriff@gmail.com)
-- [LinkedIN](https://www.linkedin.com/in/mohammed-misbahullah-sheriff/)
